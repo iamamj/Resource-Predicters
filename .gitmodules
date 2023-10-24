@@ -1,0 +1,9 @@
+[submodule "Front_End"]
+	path = Front_End
+	url = https://github.com/Resource-Predicters/Front_End
+[submodule "Back_End"]
+	path = Back_End
+	url = https://github.com/Resource-Predicters/Back_End
+[submodule "Data"]
+	path = Data
+	url = https://github.com/Resource-Predicters/Data
