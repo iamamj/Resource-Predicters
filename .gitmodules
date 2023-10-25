@@ -7,3 +7,6 @@
 [submodule "Data"]
 	path = Data
 	url = https://github.com/Resource-Predicters/Data
+[submodule "Architecture"]
+	path = Architecture
+	url = https://github.com/Resource-Predicters/Architecture
